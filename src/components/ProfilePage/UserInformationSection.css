@@ -1,0 +1,24 @@
+.user-info-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.avatar {
+  width: 150px; /* Adjust width as needed */
+  height: 150px; /* Adjust height as needed */
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 20px; /* Add some space below the avatar */
+}
+
+h2 {
+  margin: 0;
+  font-size: 24px; /* Adjust font size as needed */
+}
+
+p {
+  margin: 0;
+  font-size: 16px; /* Adjust font size as needed */
+  color: #555; /* Adjust text color as needed */
+}

@@ -1,0 +1,37 @@
+{
+  "user": {
+    "avatar": "https://cdn1.iconfinder.com/data/icons/user-interface-4/502/81-1024.png",
+    "name": "John Doe",
+    "bio": "Passionate about technology and journalism."
+  },
+  "postedArticles": [
+    {
+      "title": "New Study Reveals Impact of Climate Change on Wildlife",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "thumbnail": "https://wallpapers.com/images/hd/cute-baby-lion-animal-mno0fks52b7vu897.jpg"
+    },
+    {
+      "title": "Breaking: SpaceX Successfully Launches Mars Mission",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "thumbnail": "https://assets.entrepreneur.com/content/3x2/2000/1635950757-GettyImages-1128302923.jpg"
+    },
+    {
+      "title": "Tech Giants Unveil New AI-powered Gadgets at CES 2024",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "thumbnail": "https://www.stratospherenetworks.com/blog/wp-content/uploads/2018/12/AI-illustration.jpg"
+    }
+  ],
+  "bookmarkedArticles": [
+    {
+      "title": "How to Stay Productive While Working Remotely",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "thumbnail": "https://www.datavail.com/wp-content/uploads/2020/03/Blog_Remote_Workers_Office_365.jpg"
+    },
+    {
+      "title": "Top 10 Must-read Books for Entrepreneurs",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "thumbnail": "https://www.zastavki.com/pictures/originals/2014/Creative_Wallpaper_Stack_of_books_on_the_bench_082401_.jpg"
+   
+    }
+  ]
+}
